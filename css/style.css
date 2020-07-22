@@ -53,7 +53,7 @@ a{
 }
 .button {
     background-color: orangered;
-    border: none;
+    border: 1px solid black;
     color: white;
     padding: 20px 34px;
     text-align: center;
