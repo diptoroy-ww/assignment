@@ -10,8 +10,8 @@ margin-right: 100px;
 background-color: rgb(233, 232, 232);
 }
 .content{
-    background-color: orangered;
-    color: white;
+    background-color: rgb(255,69,0);
+    color: rgb(255, 255, 255);
     text-align: center;
 }
 h1{
@@ -24,7 +24,7 @@ h3{
     text-align: center;
     padding: 20px;
     background-color: rgba(0, 0, 0, 0.719);
-    color: white;
+    color: rgb(255, 255, 255);
 }
 img{
     width: 100%;
@@ -34,7 +34,8 @@ img{
     width: 30%;
     margin: 20 0 0 0;
     overflow-x: hidden;
-    border: 1px solid black;
+    border: 1px solid rgb(0, 0, 0)
+;
 }
 .right_content{
     width: 70%;
@@ -49,12 +50,12 @@ P{
 }
 a{
     text-decoration: none;
-    color: orangered;
+    color: rgb(255,69,0);
 }
 .button {
-    background-color: orangered;
+    background-color: rgb(255,69,0);
     border: 1px solid rgb(0, 0, 0);
-    color: white;
+    color: rgb(255, 255, 255);
     padding: 20px 34px;
     text-align: center;
     text-decoration: none;
@@ -65,9 +66,9 @@ a{
     border-radius: 5px;
 }
 .buttonr {
-    background-color: orangered;
+    background-color: rgb(255,69,0);
     border: none;
-    color: white;
+    color: rgb(255, 255, 255);
     padding: 20px 34px;
     text-align: center;
     text-decoration: none;
@@ -78,6 +79,6 @@ a{
     border-radius: 5px;
 }
 a:hover{
-    background-color: red;
+    background-color: rgb(255, 0, 0);
     color: rgb(233, 232, 232);
 }
