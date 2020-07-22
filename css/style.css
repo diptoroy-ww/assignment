@@ -53,8 +53,8 @@ a{
     color: rgb(255,69,0);
 }
 .button {
-    background-color: rgb(255,69,0);
-    border: 1px solid rgb(0, 0, 0);
+    background-color: rgb(255, 119, 0);
+    border: 2px solid rgb(0, 0, 0);
     color: rgb(255, 255, 255);
     padding: 20px 34px;
     text-align: center;
